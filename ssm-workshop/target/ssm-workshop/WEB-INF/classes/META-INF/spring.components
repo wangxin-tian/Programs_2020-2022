@@ -1,0 +1,2 @@
+com.wangxin.ssm.product.controller.ProductController=org.springframework.stereotype.Component
+com.wangxin.ssm.product.service.impl.ProductServiceImpl=org.springframework.stereotype.Component
